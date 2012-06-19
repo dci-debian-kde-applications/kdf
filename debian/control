@@ -1,0 +1,26 @@
+Source: kdf
+Section: utils
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: José Manuel Santamaría Lema <panfaust@gmail.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.8.4),
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.8)
+Standards-Version: 3.9.3
+Homepage: http://www.kde.org/
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kdf.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kdf.git
+
+Package: kdf
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: disk information utility
+ KDiskFree displays information about hard disks and other storage devices,
+ including the amount of free space available.  It can also mount and unmount
+ storage devices and view them in the file manager.
+ .
+ KwikDisk is an icon for the system tray that provides convenient access to
+ the features of KDiskFree.
+ .
+ This package is part of the KDE SC utilities module.
+
