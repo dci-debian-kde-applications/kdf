@@ -1,8 +1,8 @@
-kdf (4:4.8.4-0r0) UNRELEASED; urgency=low
+kdf (4:4.8.4-1) unstable; urgency=low
 
   * Team upload.
 
   [ José Manuel Santamaría Lema ]
   * Initial release, split from kdeutils.
 
- -- José Manuel Santamaría Lema <panfaust@gmail.com>  Tue, 19 Jun 2012 22:46:41 +0200
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Tue, 19 Jun 2012 21:35:33 -0300
