@@ -25,13 +25,13 @@ kdf (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
 kdf (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
    - Change a reference to SC to applications in control desc.
   * Debian merge, no remaining changes.
-  
+
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 13:00:03 +0000
 
 kdf (4:4.14.2-0ubuntu1) vivid; urgency=medium
@@ -374,7 +374,7 @@ kdf (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kdf (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 21:38:43 +0100
 
@@ -401,4 +401,3 @@ kdf (4:4.7.90-0ubuntu1) precise; urgency=low
   * Initial package
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 16 Dec 2011 13:33:33 +0000
-
