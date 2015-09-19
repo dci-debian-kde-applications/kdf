@@ -1,10 +1,10 @@
-kdf (4:15.08.0-1~) UNRELEASED; urgency=medium
+kdf (4:15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.1).
   * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 15:49:43 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:10:33 +0200
 
 kdf (4:14.12.2-1) experimental; urgency=medium
 
