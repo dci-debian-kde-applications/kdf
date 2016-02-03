@@ -1,6 +1,11 @@
-kdf (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+kdf (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
+
+  [ Scarlett Clark ]
+  * Debian merge: No remaining changes.
+  * New upstream release. 
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:51:09 +0000
 
@@ -15,6 +20,14 @@ kdf (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:49:30 +0100
+
+kdf (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:10:33 +0200
 
 kdf (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -45,6 +58,13 @@ kdf (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:15:31 -0700
 
+kdf (4:14.12.2-1) experimental; urgency=medium
+
+  * Prepare Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 Feb 2015 20:05:45 +0100
+
 kdf (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -66,13 +86,13 @@ kdf (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
 kdf (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
    - Change a reference to SC to applications in control desc.
   * Debian merge, no remaining changes.
-  
+
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 13:00:03 +0000
 
 kdf (4:4.14.2-0ubuntu1) vivid; urgency=medium
@@ -415,7 +435,7 @@ kdf (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kdf (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 21:38:43 +0100
 
@@ -442,4 +462,3 @@ kdf (4:4.7.90-0ubuntu1) precise; urgency=low
   * Initial package
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 16 Dec 2011 13:33:33 +0000
-
