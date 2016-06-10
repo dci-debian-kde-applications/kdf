@@ -1,8 +1,13 @@
-kdf (4:16.04.1-0neon) xenial; urgency=medium
+kdf (4:15.08.0-2) unstable; urgency=medium
 
-  * New release
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:14:55 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 18:03:18 +0200
 
 kdf (4:15.08.0-1) unstable; urgency=medium
 
