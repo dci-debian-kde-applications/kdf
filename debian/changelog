@@ -1,6 +1,6 @@
-kdf (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kdf (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Update the build dependencies following the port to Frameworks:
     - remove kde-sc-dev-latest, and kdelibs5-dev
@@ -14,7 +14,7 @@ kdf (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Bump the cmake build dependency to >= 2.8.12, according to the upstream
     build system.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 10:59:25 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 28 Aug 2016 11:19:01 +0200
 
 kdf (4:15.08.0-2) unstable; urgency=medium
 
