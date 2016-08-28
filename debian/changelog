@@ -2,6 +2,12 @@ kdf (4:16.08.0-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Update the build dependencies following the port to Frameworks:
+    - remove kde-sc-dev-latest, and kdelibs5-dev
+    - add extra-cmake-modules, qtbase5-dev, kdoctools-dev,
+      libkf5configwidgets-dev, libkf5coreaddons-dev, libkf5i18n-dev,
+      libkf5iconthemes-dev, kio-dev, libkf5kcmutils-dev,
+      libkf5notifications-dev, libkf5widgetsaddons-dev, and libkf5xmlgui-dev
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 10:59:25 +0200
 
