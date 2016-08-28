@@ -11,6 +11,8 @@ kdf (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Switch to the class 3 of debian-qt-kde.mk:
     - bump the pkg-kde-tools build dependency to >= 0.15.16
   * Update lintian overrides.
+  * Bump the cmake build dependency to >= 2.8.12, according to the upstream
+    build system.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 10:59:25 +0200
 
