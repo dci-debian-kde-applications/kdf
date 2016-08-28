@@ -8,6 +8,8 @@ kdf (4:16.08.0-0r1) UNRELEASED; urgency=medium
       libkf5configwidgets-dev, libkf5coreaddons-dev, libkf5i18n-dev,
       libkf5iconthemes-dev, kio-dev, libkf5kcmutils-dev,
       libkf5notifications-dev, libkf5widgetsaddons-dev, and libkf5xmlgui-dev
+  * Switch to the class 3 of debian-qt-kde.mk:
+    - bump the pkg-kde-tools build dependency to >= 0.15.16
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 10:59:25 +0200
 
