@@ -1,0 +1,4 @@
+# private library
+kdf: package-name-doesnt-match-sonames libkdfprivate16
+# private library
+kdf: no-symbols-control-file
