@@ -1,3 +1,11 @@
+kdf (4:16.08.1-1~1.gbpe83423) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @e834234e3f51b0e3a8259fd55db3acb8a60027f2 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 21:36:32 +0200
+
 kdf (4:16.08.0-1) unstable; urgency=medium
 
   * Team upload.
