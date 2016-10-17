@@ -1,11 +1,12 @@
-kdf (4:16.08.2-1~1.gbpee9d2a) UNRELEASED; urgency=medium
+kdf (4:16.08.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @ee9d2a9581a14071a5ce01719103e19ff2b213d8 **
-
-  * Update build-deps and deps with the info from cmake
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 21:36:23 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.2)
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:28:45 +0200
 
 kdf (4:16.08.0-1) unstable; urgency=medium
 
