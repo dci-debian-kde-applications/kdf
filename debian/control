@@ -25,6 +25,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kdf.git
 Package: kdf
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: disk information utility
  KDiskFree displays information about hard disks and other storage devices,
  including the amount of free space available. It can also mount and unmount
