@@ -1,4 +1,4 @@
 # private library
-kdf: package-name-doesnt-match-sonames libkdfprivate16
+kdf: package-name-doesnt-match-sonames libkdfprivate17
 # private library
 kdf: no-symbols-control-file
