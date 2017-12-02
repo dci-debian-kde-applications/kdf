@@ -1,10 +1,14 @@
-kdf (4:17.08.1-1~) UNRELEASED; urgency=medium
+kdf (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * New upstream release (17.08.1)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Sep 2017 18:36:05 +0200
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 07 Sep 2017 18:36:05 +0200
 
 kdf (4:17.08.1-0neon) xenial; urgency=medium
 
